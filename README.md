@@ -16,7 +16,7 @@ decode24 is a command-line tool written in Python that allows you to decode enco
 
 3. Install the required dependencies using pip:
    ```
-   pip install -r requirements.txt
+   Python and Python3 were tested
    ```
 
 4. Make the script executable:
