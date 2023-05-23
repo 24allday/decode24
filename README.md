@@ -1,6 +1,6 @@
-# decode24.py
+# Decode24.py
 
-decode24 is a command-line tool written in Python that allows you to decode encoded strings using different encoding types such as base64, hex, and URL encoding. It provides a simple and convenient way to decode strings and supports error handling for invalid encodings.
+Decode24 is a command-line tool written in Python that allows you to decode encoded strings using different encoding types such as base64, hex, and URL encoding. It provides a simple and convenient way to decode strings and supports error handling for invalid encodings.
 
 ## Installation
 
